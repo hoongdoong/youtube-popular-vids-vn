@@ -18,10 +18,10 @@ After that, the first thing I did is finding top 10 channels with the largest nu
 <img width="560" alt="image" src="https://user-images.githubusercontent.com/105037210/167250510-be14a3ef-413e-4cb9-a0bf-202b19a8255f.png">
 </p>
 As can be seen from the above image, the largest number of trending videos which one channel could achieve is 3. The most popular channels include:
-Anh Ba Phai TV, On Sports Plus, Ung Hoang Phuc, Tran Thanh Chuong, Lien Quan Mobile...,  MrBB Vlogs.
+Anh Ba Phai TV, On Sports Plus, Ung Hoang Phuc, Tran Thanh Chuong, Lien Quan Mobile,  MrBB Vlogs, etc.
 
-Then I generated some word cloud charts to see what keywords are used the most in Video titles, Video tags, Video 
-description and Channel title.
+Then I generated some word cloud charts to see what keywords are used the most in 'Video titles', 'Video tags', 'Video 
+description' and 'Channel title'.
 
 <p align="center">
   <img width="381" height=190 alt="image" src="https://user-images.githubusercontent.com/105037210/167250731-7601f37f-3a34-495b-b250-3f96f8b102ef.png">
@@ -63,9 +63,9 @@ The column "PublishedAt" is written in UTC, so I converted it into a new column 
 As the bar graph demonstrates, the hours which the majority of trending Youtubers choose to upload their videos are between 18:00 and 20:00. In general, many trending content creators prefer to publish their videos during the evening than other periods.
 
 ## CONCLUSION
-After conducting an exploratory analysis on the dataset of top 200 most popular videos in Vietnam, I can give some answers to the questions mentioned in the introduction.
+After conducting an exploratory analysis on the dataset of top 200 most popular videos in Vietnam, I can give some answers to the questions mentioned earlier in the introduction.
 - Vietnamese tastes when using Youtube include
-  - Videos with the short time duration (inferred from 'tiktok', 'short' words in video title and tags)
+  - Videos with the short time duration (inferred from 'tiktok', 'short' words in video title and tags).
   - Videos with contents of challenging, gaming, film, short film and sports.
   - Videos in 'Entertainment', 'Music', 'People & Blog', 'Sports' categories.
   - ...
