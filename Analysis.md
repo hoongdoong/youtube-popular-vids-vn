@@ -75,4 +75,4 @@ After conducting an exploratory analysis on the dataset of top 200 most popular 
   - ...
  - For anyone with the intention of being a youtube content creator, I hope you can find some useful basic information to consider when putting your very first step in that field.
 
-To view my code ([Click here])(https://github.com/hoongdoong/youtube-popular-vids-vn/blob/main/data_processing.ipynb)
+To view my code [Click here](https://github.com/hoongdoong/youtube-popular-vids-vn/blob/main/data_processing.ipynb)
