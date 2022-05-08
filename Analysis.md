@@ -9,7 +9,7 @@ I decided to do an analysis and some basic visualizations for several reasons.
 - To find out some similar patterns and offer some basic information to anyone with the intention of taking part in youtube content creator.
 - To gain some experiences in working with data and to practice what I have learned so far.
 ### ABOUT DATASET
-The dataset was collected on  07/May/2022 (the date executing these codes) in Vietnam region using Youtube API V3.
+The dataset was collected on  **07/May/2022** (the date executing these codes) in Vietnam region using Youtube API V3.
 ## EXPLORATORY ANALYSIS
 ### POPULAR WORDS
 With the help of Youtube API V3, I could collect top 200 most popular videos in Vietnam and write the data to file **data.json**.
