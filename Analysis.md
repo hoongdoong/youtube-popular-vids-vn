@@ -55,7 +55,7 @@ Top-watched categories are Entertainment, Music, Sports, People & Blog. Among th
 However, Education and News & Politics categories stand at the least trending ones although they bring more useful knowledge. (Opinion)
 
 ### PUBLISH HOURS
-The coulumn "PublishedAt" is written in UTC, so I converted it into a new column named "Published Hour" which is written in UTC+7 (I only took the publishing hour for analysing). After grouping all the videos into published hours, I generated a Bar Graph.
+The column "PublishedAt" is written in UTC, so I converted it into a new column named "Published Hour" which is written in UTC+7 (I only took the publishing hour for analysing). After grouping all the videos into published hours, I generated a Bar Graph.
 <p align="center">
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/105037210/167286787-0fc4bbaa-baa6-487d-88d0-cc1b5979de29.png">
 </p>
