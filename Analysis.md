@@ -60,7 +60,7 @@ The column "PublishedAt" is written in UTC, so I converted it into a new column 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/105037210/167286787-0fc4bbaa-baa6-487d-88d0-cc1b5979de29.png">
 </p>
 
-As the bar graph demonstrates, the hours which the majority of trending Youtubers choose to upload their videos are between 18:00 and 20:00. In general, many trending content creators prefer to publish their videos during the evening than other periods.
+As the bar graph demonstrates, the hours which the majority of trending Youtubers choose to upload their videos are between 18:00 and 21:00. In general, many trending content creators prefer to publish their videos during the evening than other periods.
 
 ## CONCLUSION
 After conducting an exploratory analysis on the dataset of top 200 most popular videos in Vietnam, I can give some answers to the questions mentioned earlier in the introduction.
@@ -69,7 +69,7 @@ After conducting an exploratory analysis on the dataset of top 200 most popular 
   - Videos with contents of challenging, gaming, film, short film and sports.
   - Videos in 'Entertainment', 'Music', 'People & Blog', 'Sports' categories.
   - ...
-- Some patterns which are shared betweent those videos include
+- Some patterns which are shared between those videos include
   - Video content which can satisfies the popular tastes of users
   - Published hours are mainly between 18:00 and 21:00
   - ...
