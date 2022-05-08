@@ -15,10 +15,10 @@ Attributes include:
 - Others
 ## DATA SOURCE
 The dataset is gathered using Youtube API V3 in Vietnam region.
-## MY OWN ANALYSIS
-You can read my own analysis for some general conclusions [here](https://github.com/hoongdoong/youtube-popular-vids-vn/blob/main/Analysis.md)
 
 If you need more information [Click here](https://developers.google.com/youtube/v3/getting-started)
+## MY OWN ANALYSIS
+You can read my own analysis for some general conclusions [here](https://github.com/hoongdoong/youtube-popular-vids-vn/blob/main/Analysis.md)
 ## TO RUN
 - Clone the project
 - Open and run file **get_top_200_video.ipynb** (remember to replace **client_secrets_file** with yours)
