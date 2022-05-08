@@ -15,6 +15,8 @@ Attributes include:
 - Others
 ## DATA SOURCE
 The dataset is gathered using Youtube API V3 in Vietnam region.
+## MY OWN ANALYSIS
+You can read my own analysis for some general conclusions [here](https://github.com/hoongdoong/youtube-popular-vids-vn/blob/main/Analysis.md)
 
 If you need more information [Click here](https://developers.google.com/youtube/v3/getting-started)
 ## TO RUN
