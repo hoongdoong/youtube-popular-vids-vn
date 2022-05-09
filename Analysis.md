@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 ### BACKGROUND
-Youtube has increased its popularity a lot over the last few years. Many Vietnamese people of different ages are joining this community. It is easy to catch some kids, adolescents, adults or even elders using Youtube. Since trending videos can demonstrate quite clearly tastes of the majority of Youtube users. An exploratory analysis on top 200 most popular videos may be helpful to find out those tastes as well as some patterns shared among those videos. 
+Youtube has increased its popularity a lot over the last few years. Many Vietnamese people of different ages are joining this community. It is easy to catch some kids, adolescents, adults or even elders using Youtube. Since trending videos can demonstrate quite clearly tastes of the majority of Youtube users, an exploratory analysis on top 200 most popular videos may be helpful to find out those tastes as well as some patterns shared among those videos. 
 ### OBJECTIVE
 I decided to do an analysis and some basic visualizations for several reasons. 
 - To discover Vietnamese people's tastes in Youtube videos.
